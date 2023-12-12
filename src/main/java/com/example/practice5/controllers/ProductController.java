@@ -1,6 +1,5 @@
 package com.example.practice5.controllers;
 
-
 import com.example.practice5.Services.ProductService;
 import com.example.practice5.models.Product;
 import lombok.RequiredArgsConstructor;
